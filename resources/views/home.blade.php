@@ -321,7 +321,7 @@ Continuously expanding my knowledge in software development through practical pr
                     Laravel, MySQL, Bootstrap
                     </p>
 
-                    <a href="https://github.com/itx-liba" class="btn btn-primary" target="_blank"> View on GitHub
+                    <a href="GitHub - itx-liba/student_management_system" class="btn btn-primary" target="_blank"> View on GitHub
                     </a>
 
                 </div>
